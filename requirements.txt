@@ -1,0 +1,17 @@
+beautifulsoup4==4.9.0
+bs4==0.0.1
+certifi==2020.4.5.1
+chardet==3.0.4
+colorama==0.4.3
+et-xmlfile==1.0.1
+fake-useragent==0.1.11
+idna==2.9
+jdcal==1.4.1
+lxml==4.5.0
+openpyxl==3.0.3
+peewee==3.13.2
+PyMySQL==0.9.3
+requests==2.23.0
+selenium==3.141.0
+soupsieve==2.0
+urllib3==1.25.8
